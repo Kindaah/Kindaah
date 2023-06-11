@@ -4,7 +4,7 @@
 ## I’m an Automation Junkie, Autodidact LLM Product Engineer, Growth Hacker, and Entrepreneur.  
 
 - 🧩 I enjoy solving complex business and societal problems
-- 👩‍💻I’m currently working on several LLM projects 🤖
+- 👩‍💻I’m currently working on several LLM projects 
 - 🌱 I’m constantly learning new skills, currently focused on Computational Engineering & Advanced Material Science 
 - 🔭 I’m interested in Generative AI applications and autonomous system  
 
