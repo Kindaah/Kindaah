@@ -12,9 +12,8 @@ ____
 ### ⚒ Things I've Built  🦾
 
 - Virtual Medical Assistant 
-- Supply Chain Automation Platform 
-- MultiModal Virtual Social Media Specialist 
-- Virtual Personal Assistant 
+- Supply Chain Automation Platform  
+-  Personal Clone
 
 ____
 ### 💻 Technologies 
