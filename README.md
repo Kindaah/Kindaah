@@ -13,7 +13,8 @@ ____
 
 - Virtual Medical Assistant 
 - Supply Chain Automation Platform  
--  Personal Clone
+- AI Personal Clone
+- NextJs MDX Blog Application 
 
 ____
 ### 💻 Technologies 
